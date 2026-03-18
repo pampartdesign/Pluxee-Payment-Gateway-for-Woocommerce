@@ -1,0 +1,9 @@
+For this plugin to work, client must be a registered Pluxee Ecommerce Client.
+Client must acquire the following from their Pluxee acount manager, 
+- Merchant API
+- API KEY
+- API SECRET
+- API Base URL
+- Webhook Secret
+
+I would appreciate If anyone have/can provide Pluxee PHP SDK. 
